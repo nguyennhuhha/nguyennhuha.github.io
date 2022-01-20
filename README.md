@@ -1,14 +1,29 @@
-## Nguyễn Như Hà
-Xin chào, Tôi là Hà, là một Developer tương lai. Welcome to my site.
+## Hello, My name's Nguyễn Như Hà 🎃🎃🎃
+<img src="![c8419e9052409f1ec651](https://user-images.githubusercontent.com/94069476/150345509-ee974bee-b2cb-4fdd-b674-65c030903abd.jpg)
+">
+### 🌟 ABOUT ME 🌟
+📆 Ngày sinh: 31/10/2003 
+🏠 Đến từ: Chư Sê, Gia Lai, Việt Nam
+📧 Email: nhuha3110@gmail.com
 
-### about 
+### 🌟 EDUCATION 🌟
+📝 Đang học tại trường Đại học Công nghệ Thông tin - ĐHQGTPHCM
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### 🌟 INTERESTS AND HOBBIES 🌟
+📽 Xem phim
+️🎵 Nghe nhạc
+✏ Vẽ phác thảo 
+📖 Trang trí sổ tay
+ 
+### 🌟 ACTIVITIES 🌟 
+- Thành viên của **Google Developer Student Club - UIT** 🔥🔥🔥🔥
 
-### Jekyll Themes
+### 🌟 TARGET 🌟
+️🎯 Sống một cuộc sống an nhàn, hạnh phúc, nằm trên đống tiề️n️ 😎 ️🎯
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Nguyennhuha/nguyennhuha.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### 🌟 CONTACT 🌟
+🌙 [Facebook](https://www.facebook.com/nguyennhuhha)
+🌙 [Instagram](https://www.instagram.com/nguyennhuhha/)
+🌙 [Twitter](https://twitter.com/nguyennhuhha_)
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### If you want the rainbow 🌈🌈 you have to deal with the rain ⛈️⛈️ - Favorite quote ♥️
