@@ -1,7 +1,7 @@
 ## Hello, My name's Nguyễn Như Hà 🎃🎃🎃
 
-<img src="![c8419e9052409f1ec651](https://user-images.githubusercontent.com/94069476/150345509-ee974bee-b2cb-4fdd-b674-65c030903abd.jpg)
-">
+![c74a832e671dbbe7ac227bde328a7c4f](https://user-images.githubusercontent.com/94069476/178427763-68126b78-1c9b-4eeb-b85b-d90d1a2f9fee.jpg)
+
 
 ### 🌟 ABOUT ME 🌟
 📆 Ngày sinh: 31/10/2003 
