@@ -1,4 +1,4 @@
-## Hello, My name's Nguyễn Như Hà 🎃🎃🎃
+## Hello, My name is Nguyễn Như Hà 🎃🎃🎃
 
 ![c74a832e671dbbe7ac227bde328a7c4f](https://user-images.githubusercontent.com/94069476/178427763-68126b78-1c9b-4eeb-b85b-d90d1a2f9fee.jpg)
 
