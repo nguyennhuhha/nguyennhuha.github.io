@@ -33,6 +33,6 @@
 
 🌙 [Instagram](https://www.instagram.com/nguyennhuhha/)
 
-🌙 [Twitter](https://twitter.com/nguyennhuhha_)
+🌙 [Twitter](https://twitter.com/nguyennhuhha)
 
 ### If you want the rainbow 🌈🌈 you have to deal with the rain ⛈️⛈️ - Favorite quote ♥️
